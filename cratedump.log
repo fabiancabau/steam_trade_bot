@@ -1,0 +1,300 @@
+2015-10-26T21:42:25.414Z - warn: Error reading polldata.json. If this is the first run, this is expected behavior: Error: ENOENT: no such file or directory, open 'C:\Users\fabia\Documents\webapps\steam_trade_bot\polldata.json'
+2015-10-26T21:43:24.842Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T21:43:24.868Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T21:43:24.899Z - info: We do not have a Steam wallet.
+2015-10-26T21:44:17.019Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T21:44:17.037Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T21:44:17.047Z - info: We do not have a Steam wallet.
+2015-10-26T21:44:53.392Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T21:44:53.410Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T21:44:53.421Z - info: We do not have a Steam wallet.
+2015-10-26T21:45:24.737Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T21:45:24.754Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T21:45:24.765Z - info: We do not have a Steam wallet.
+2015-10-26T21:46:21.285Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T21:46:21.302Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T21:46:21.312Z - info: We do not have a Steam wallet.
+2015-10-26T21:47:24.487Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T21:47:24.507Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T21:47:24.519Z - info: We do not have a Steam wallet.
+2015-10-26T21:47:58.209Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T21:47:58.228Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T21:47:58.238Z - info: We do not have a Steam wallet.
+2015-10-26T21:48:06.401Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T21:48:06.419Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T21:48:06.429Z - info: We do not have a Steam wallet.
+2015-10-26T21:48:36.250Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T21:48:36.256Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T21:48:36.266Z - info: We do not have a Steam wallet.
+2015-10-26T21:48:36.747Z - error:  Error: Malformed response
+    at TradeOfferManager.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\lib\index.js:122:13)
+    at Request.self.callback (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:198:22)
+    at emitTwo (events.js:87:13)
+    at Request.emit (events.js:172:7)
+    at Request.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:1082:10)
+    at emitOne (events.js:82:20)
+    at Request.emit (events.js:169:7)
+    at IncomingMessage.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:1009:12)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+2015-10-26T21:51:02.271Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T21:51:02.289Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T21:51:02.300Z - info: We do not have a Steam wallet.
+2015-10-26T22:06:46.862Z - error: Error polling for trade offers: Error: getaddrinfo ENOTFOUND api.steampowered.com api.steampowered.com:443
+2015-10-26T22:09:51.034Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T22:09:51.053Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T22:09:51.064Z - info: We do not have a Steam wallet.
+2015-10-26T22:40:10.984Z - error:  Error: HTTP error 503
+    at TradeOfferManager.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\lib\index.js:117:20)
+    at Request.self.callback (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:198:22)
+    at emitTwo (events.js:87:13)
+    at Request.emit (events.js:172:7)
+    at Request.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:1082:10)
+    at emitOne (events.js:82:20)
+    at Request.emit (events.js:169:7)
+    at IncomingMessage.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:1009:12)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+2015-10-26T23:03:24.136Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T23:03:24.154Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T23:03:24.164Z - info: We do not have a Steam wallet.
+2015-10-26T23:10:38.648Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T23:10:38.668Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T23:10:38.679Z - info: We do not have a Steam wallet.
+2015-10-26T23:11:07.048Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T23:11:07.068Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T23:11:07.079Z - info: We do not have a Steam wallet.
+2015-10-26T23:11:13.137Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T23:11:13.155Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T23:11:13.165Z - info: We do not have a Steam wallet.
+2015-10-26T23:11:18.377Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T23:11:18.396Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T23:11:18.409Z - info: We do not have a Steam wallet.
+2015-10-26T23:14:49.148Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T23:14:49.167Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T23:14:49.179Z - info: We do not have a Steam wallet.
+2015-10-26T23:15:55.074Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T23:15:55.095Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T23:15:55.107Z - info: We do not have a Steam wallet.
+2015-10-26T23:16:53.085Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T23:16:53.104Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T23:16:53.116Z - info: We do not have a Steam wallet.
+2015-10-26T23:19:12.168Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T23:19:12.187Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T23:19:12.198Z - info: We do not have a Steam wallet.
+2015-10-26T23:21:05.760Z - info: Logged into Steam as [U:1:42087246]
+2015-10-26T23:21:05.778Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-26T23:21:05.790Z - info: We do not have a Steam wallet.
+2015-10-27T00:25:06.338Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:25:06.355Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:25:06.366Z - info: We do not have a Steam wallet.
+2015-10-27T00:25:10.364Z - error:  Error: Malformed response
+    at TradeOfferManager.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\lib\index.js:122:13)
+    at Request.self.callback (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:198:22)
+    at emitTwo (events.js:87:13)
+    at Request.emit (events.js:172:7)
+    at Request.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:1082:10)
+    at emitOne (events.js:82:20)
+    at Request.emit (events.js:169:7)
+    at IncomingMessage.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:1009:12)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+2015-10-27T00:25:10.365Z - error: You probably dont have this game on your steam.
+2015-10-27T00:25:42.732Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:25:42.750Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:25:42.761Z - info: We do not have a Steam wallet.
+2015-10-27T00:29:36.332Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:29:36.351Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:29:36.363Z - info: We do not have a Steam wallet.
+2015-10-27T00:37:26.921Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:37:26.938Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:37:26.949Z - info: We do not have a Steam wallet.
+2015-10-27T00:40:41.129Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:40:41.146Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:40:41.157Z - info: We do not have a Steam wallet.
+2015-10-27T00:42:10.930Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:42:10.949Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:42:10.963Z - info: We do not have a Steam wallet.
+2015-10-27T00:42:57.639Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:42:57.657Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:42:57.666Z - info: We do not have a Steam wallet.
+2015-10-27T00:43:36.205Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:43:36.211Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:43:36.221Z - info: We do not have a Steam wallet.
+2015-10-27T00:44:42.600Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:44:42.618Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:44:42.628Z - info: We do not have a Steam wallet.
+2015-10-27T00:55:53.237Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:55:53.255Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:55:53.266Z - info: We do not have a Steam wallet.
+2015-10-27T00:56:02.892Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:56:02.910Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:56:02.924Z - info: We do not have a Steam wallet.
+2015-10-27T00:56:10.738Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:56:10.761Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:56:10.773Z - info: We do not have a Steam wallet.
+2015-10-27T00:57:12.237Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:57:12.256Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:57:12.266Z - info: We do not have a Steam wallet.
+2015-10-27T00:59:06.279Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:59:06.297Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:59:06.308Z - info: We do not have a Steam wallet.
+2015-10-27T00:59:56.198Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T00:59:56.216Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T00:59:56.226Z - info: We do not have a Steam wallet.
+2015-10-27T01:00:55.392Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T01:00:55.413Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T01:00:55.425Z - info: We do not have a Steam wallet.
+2015-10-27T01:41:00.731Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T01:41:00.750Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T01:41:00.761Z - info: We do not have a Steam wallet.
+2015-10-27T02:24:41.615Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:24:41.634Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:24:41.646Z - info: We do not have a Steam wallet.
+2015-10-27T02:25:30.930Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:25:30.947Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:25:30.957Z - info: We do not have a Steam wallet.
+2015-10-27T02:25:49.855Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:25:49.873Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:25:49.884Z - info: We do not have a Steam wallet.
+2015-10-27T02:26:37.588Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:26:37.605Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:26:37.614Z - info: We do not have a Steam wallet.
+2015-10-27T02:26:59.746Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:26:59.767Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:26:59.777Z - info: We do not have a Steam wallet.
+2015-10-27T02:28:56.110Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:28:56.127Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:28:56.137Z - info: We do not have a Steam wallet.
+2015-10-27T02:29:09.620Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:29:09.638Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:29:09.650Z - info: We do not have a Steam wallet.
+2015-10-27T02:31:40.348Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:31:40.365Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:31:40.376Z - info: We do not have a Steam wallet.
+2015-10-27T02:32:13.778Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:32:13.796Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:32:13.805Z - info: We do not have a Steam wallet.
+2015-10-27T02:32:49.349Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:32:49.369Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:32:49.380Z - info: We do not have a Steam wallet.
+2015-10-27T02:33:32.858Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:33:32.876Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:33:32.886Z - info: We do not have a Steam wallet.
+2015-10-27T02:34:07.382Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:34:07.400Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:34:07.410Z - info: We do not have a Steam wallet.
+2015-10-27T02:34:33.111Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:34:33.129Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:34:33.138Z - info: We do not have a Steam wallet.
+2015-10-27T02:34:54.288Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:34:54.306Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:34:54.317Z - info: We do not have a Steam wallet.
+2015-10-27T02:34:59.144Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:34:59.163Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:34:59.172Z - info: We do not have a Steam wallet.
+2015-10-27T02:36:10.096Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:36:10.113Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:36:10.123Z - info: We do not have a Steam wallet.
+2015-10-27T02:37:09.812Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:37:09.831Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:37:09.840Z - info: We do not have a Steam wallet.
+2015-10-27T02:38:32.628Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:38:32.648Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:38:32.661Z - info: We do not have a Steam wallet.
+2015-10-27T02:40:01.783Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:40:01.803Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:40:01.814Z - info: We do not have a Steam wallet.
+2015-10-27T02:45:27.696Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:45:27.713Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:45:27.723Z - info: We do not have a Steam wallet.
+2015-10-27T02:47:26.831Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:47:26.849Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:47:26.858Z - info: We do not have a Steam wallet.
+2015-10-27T02:48:12.334Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:48:12.352Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:48:12.363Z - info: We do not have a Steam wallet.
+2015-10-27T02:48:33.427Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:48:33.444Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:48:33.454Z - info: We do not have a Steam wallet.
+2015-10-27T02:49:08.618Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:49:08.636Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:49:08.646Z - info: We do not have a Steam wallet.
+2015-10-27T02:49:23.485Z - error:  Error: HTTP error 503
+    at TradeOfferManager.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\lib\index.js:117:20)
+    at Request.self.callback (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:198:22)
+    at emitTwo (events.js:87:13)
+    at Request.emit (events.js:172:7)
+    at Request.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:1082:10)
+    at emitOne (events.js:82:20)
+    at Request.emit (events.js:169:7)
+    at IncomingMessage.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:1009:12)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+2015-10-27T02:49:23.486Z - error: You probably dont have this game on your steam.
+2015-10-27T02:49:56.809Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:49:56.815Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:49:56.825Z - info: We do not have a Steam wallet.
+2015-10-27T02:49:57.898Z - error:  Error: Malformed response
+    at TradeOfferManager.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\lib\index.js:122:13)
+    at Request.self.callback (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:198:22)
+    at emitTwo (events.js:87:13)
+    at Request.emit (events.js:172:7)
+    at Request.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:1082:10)
+    at emitOne (events.js:82:20)
+    at Request.emit (events.js:169:7)
+    at IncomingMessage.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:1009:12)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+2015-10-27T02:49:57.900Z - error: You probably dont have this game on your steam.
+2015-10-27T02:51:14.401Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:51:14.421Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:51:14.432Z - info: We do not have a Steam wallet.
+2015-10-27T02:51:42.754Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:51:42.772Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:51:42.781Z - info: We do not have a Steam wallet.
+2015-10-27T02:52:20.550Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:52:20.568Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:52:20.579Z - info: We do not have a Steam wallet.
+2015-10-27T02:52:45.802Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:52:45.820Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:52:45.829Z - info: We do not have a Steam wallet.
+2015-10-27T02:52:56.473Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:52:56.491Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:52:56.501Z - info: We do not have a Steam wallet.
+2015-10-27T02:53:14.169Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:53:14.187Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:53:14.196Z - info: We do not have a Steam wallet.
+2015-10-27T02:53:37.056Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:53:37.075Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:53:37.086Z - info: We do not have a Steam wallet.
+2015-10-27T02:53:38.660Z - error:  Error: Malformed response
+    at TradeOfferManager.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\lib\index.js:122:13)
+    at Request.self.callback (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:198:22)
+    at emitTwo (events.js:87:13)
+    at Request.emit (events.js:172:7)
+    at Request.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:1082:10)
+    at emitOne (events.js:82:20)
+    at Request.emit (events.js:169:7)
+    at IncomingMessage.<anonymous> (C:\Users\fabia\Documents\webapps\steam_trade_bot\node_modules\steam-tradeoffer-manager\node_modules\steamcommunity\node_modules\request\request.js:1009:12)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+2015-10-27T02:53:38.662Z - error: You probably dont have this game on your steam.
+2015-10-27T02:54:05.258Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:54:05.275Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:54:05.286Z - info: We do not have a Steam wallet.
+2015-10-27T02:55:01.811Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:55:01.828Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:55:01.839Z - info: We do not have a Steam wallet.
+2015-10-27T02:55:35.086Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:55:35.103Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:55:35.113Z - info: We do not have a Steam wallet.
+2015-10-27T02:55:50.421Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:55:50.440Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:55:50.451Z - info: We do not have a Steam wallet.
+2015-10-27T02:56:33.010Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T02:56:33.028Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T02:56:33.037Z - info: We do not have a Steam wallet.
+2015-10-27T03:00:25.232Z - info: Logged into Steam as [U:1:42087246]
+2015-10-27T03:00:25.249Z - info: Our email address is fabiancabau@gmail.com and it's validated
+2015-10-27T03:00:25.259Z - info: We do not have a Steam wallet.
