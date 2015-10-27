@@ -1,0 +1,29 @@
+<html ng-app="steambotApp">
+
+	<head>
+		<script src="bower_components/angular/angular.js"></script>
+		<script src="app.js"></script>
+
+		<style>
+
+			body {
+				width:100%;
+			}
+
+			img {
+				width:256px;
+				height:256px;
+				display:inline-block;
+				float:left;	
+			}
+		</style>
+
+	</head>
+
+	<body ng-controller="SteambotCtrl">
+		<div ng-repeat="item in items">
+			<a href="{{item.market_actions[0].link}}"><img ng-src="{{icon_base_url}}{{item.icon_url}}"/></a>
+		</div>
+	</body>
+
+</html>
